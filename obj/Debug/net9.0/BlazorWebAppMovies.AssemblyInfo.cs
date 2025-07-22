@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorWebAppMovies")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43e1d403511cb3046b5c83998ca98c4b824c1c30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+561eb339939e0b69c59717fe4c65252c575edb86")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorWebAppMovies")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorWebAppMovies")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
