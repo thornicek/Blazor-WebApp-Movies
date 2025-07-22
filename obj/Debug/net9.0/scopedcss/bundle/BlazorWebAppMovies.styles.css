@@ -205,3 +205,10 @@ main[b-70daqkj481] {
         overflow-y: auto;
     }
 }
+/* _content/BlazorWebAppMovies/Components/Pages/MoviePages/Index.razor.rz.scp.css */
+[b-r9kxcgojw2] tr {
+    height: 3em;
+}
+    [b-r9kxcgojw2] tr > td {
+        vertical-align: middle;
+    }
